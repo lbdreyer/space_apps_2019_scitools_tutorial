@@ -4,4 +4,4 @@ This repository contains a tutorial which introduces the two main Scitools packa
 
 This tutorial was given as part of the NASA Space Apps Challenge 2019 preliminary tutorial day run by Space Apps Exeter.
 
-Launch the tutorial by clicking here: [![Binder](https://mybinder.org/v2/gh/lbdreyer/space_apps_2019_scitools_tutorial/master)
+Launch the tutorial by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lbdreyer/space_apps_2019_scitools_tutorial/master)
