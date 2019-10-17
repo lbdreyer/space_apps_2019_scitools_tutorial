@@ -7,4 +7,3 @@ dependencies:
     - iris-sample-data
     - matplotlib==2.*
     - nc-time-axis
-    - intake
